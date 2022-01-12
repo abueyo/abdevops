@@ -1,1 +1,2 @@
 my first git scm
+This is the second line
